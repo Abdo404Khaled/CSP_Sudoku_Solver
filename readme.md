@@ -19,8 +19,7 @@ This Python application provides a Sudoku solver using Constraint Satisfaction P
    - Click the "Clear" button to clear the board.
 
 ## Screenshots
-Include screenshots or GIFs showcasing the GUI and the solving process.
-
+![Sudoku Solver GUI](gui.png)
 ## Algorithms Used
 - **Backtracking Algorithm:** The primary algorithm for solving Sudoku puzzles.
 - **Constraint Satisfaction Problem (CSP):** Applied to ensure that each number is placed considering the constraints of the puzzle.
