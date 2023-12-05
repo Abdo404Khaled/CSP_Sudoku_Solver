@@ -9,7 +9,7 @@ This Python application provides a Sudoku solver using Constraint Satisfaction P
 - **Visualizer:** Provides an option to visualize the solving process step by step.
 
 ## How to Use
-1. **Clone the repository:** `git clone https://github.com/Abdo404Khaled/csp-sudoku-solver.git`
+1. **Clone the repository:** `git clone https://github.com/Abdo404Khaled/CSP_Sudoku_Solver.git`
 2. **Run the application:** `python sudoku_solver.py`
 3. **GUI Usage:**
    - Enter Sudoku numbers into the cells.
